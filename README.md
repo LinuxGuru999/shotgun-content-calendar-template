@@ -1,8 +1,21 @@
 # Content Calendar Template
 
-Plan a month of content in one sitting Built for creators, with no account or subscription required.
+Plan a month of content in one sitting
 
-## What's inside
+## Overview
+This is a reusable digital Content Calendar Template with a monthly grid, idea backlog, and publishing checklist, built to help creators organize planned posts across channels. It gives structure to your workflow, but you still supply the ideas, captions, assets, and scheduling decisions. It works best as a planning system you can customize for your own content routine.
+
+## Use cases
+- A solo creator maps out 30 days of short-form video topics, formats, and publish dates in one planning session.
+- A freelance social media manager batches campaign ideas, approval status, and deadlines for multiple client accounts.
+- A blogger turns scattered notes into a scheduled month of posts with a checklist for drafting, editing, and publishing.
+
+## How to use
+1. Download the file and open it in the compatible spreadsheet, document, or design app listed in the product details.
+2. Fill the monthly grid with dates, platforms, topics, and owners, then move spare concepts into the idea backlog.
+3. Use the publishing checklist to track each item from draft to final review before it goes live.
+
+## What is included
 - Monthly grid
 - Idea backlog
 - Publishing checklist
